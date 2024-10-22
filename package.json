@@ -9,13 +9,28 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/config": "^8.1.1",
+    "@expo/metro-config": "^0.10.0",
+    "@expo/vector-icons": "^14.0.0",
+    "@firebase/firestore": "^4.4.2",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "@react-navigation/native": "^6.1.9",
+    "@ui-kitten/components": "^5.3.1",
     "expo": "~50.0.4",
+    "expo-firebase-app": "^2.0.0",
     "expo-status-bar": "~1.11.1",
+    "firebase": "^10.8.0",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-paper": "^5.12.3",
+    "react-native-table-component": "^1.2.2",
+    "react-native-thermal-printer": "^2.3.6",
+    "react-native-vector-icons": "^10.0.3",
+    "react-table": "^7.8.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "gh-pages": "^6.2.0"
   },
   "private": true
 }
